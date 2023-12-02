@@ -1,0 +1,4 @@
+APCA_API_BASE_URL= "https://paper-api.alpaca.markets"
+APCA_API_KEY_ID = "" # User enters copies  Alpaca API key, for security the key is taken out.
+APCA_API_SECRET_KEY = "" # User enters copies secret key, for security the key is taken out.
+OPENAI_API_KEY = "" # User enters copies OPENAI API key, for security the key is taken out.
